@@ -1,0 +1,1 @@
+/root/rcore/rCore-Tutorial-v3/user/target/riscv64gc-unknown-none-elf/release/filetest_simple: /root/rcore/rCore-Tutorial-v3/user/src/bin/filetest_simple.rs /root/rcore/rCore-Tutorial-v3/user/src/console.rs /root/rcore/rCore-Tutorial-v3/user/src/lang_items.rs /root/rcore/rCore-Tutorial-v3/user/src/lib.rs /root/rcore/rCore-Tutorial-v3/user/src/syscall.rs
